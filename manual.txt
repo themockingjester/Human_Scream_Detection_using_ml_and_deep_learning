@@ -1,0 +1,2 @@
+first download scream_detection_main.zip file and decompress it there you will find an file named 'how to use.txt' read the file for further instructions
+
